@@ -1,0 +1,61 @@
+.pé {
+    background-color: black;
+    text-align: center;
+}
+.trag{
+    color: white;
+}
+
+.fragg{  
+  width: 02%;
+}
+
+.bota{
+    bottom: unset;
+}
+.tral{
+    border: 0cap;
+}
+
+.fund{
+    font-family: arial,sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #C8DAB1;
+}
+
+.true img {
+   width: 20px;
+  image-orientation: flip;
+}
+.you {
+    text-align: center;
+}
+footer {
+    position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+}
+
+.letra {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Gorjaz{
+    text-align: center;
+   
+}
+.buuto{
+    text-align: center;
+}
+.titu{
+    text-align: center;
+}
+.gh{
+    text-align: center;
+}
+.bo{
+    text-align: center;
+    
+}
